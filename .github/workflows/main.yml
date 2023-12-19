@@ -38,7 +38,7 @@ jobs:
           echo Is Java installed?
           java -version
           echo
-          Is Git installed?
+          echo Is Git installed?
           git --version
           echo
           echo What about building tools
